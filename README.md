@@ -33,4 +33,9 @@
 
 #### Dashboard
   Con todos estos datos e información procedí a realizar un dashboard interactivo con diversos tipos de gráficos que no hicieron otra cosa más que concordar con los análisis anteriormente realizados. Realice un gráfico de líneas para mostrar las cantidades de siniestros respecto al tiempo, un gráfico de columnas que mostrara la edad y los vehículos en los que circulan las víctimas, indicando también en qué circulan los acusados de esos siniestros y un gráfico circular que muestre mejor esto último. También realicé una tabla que mostrara las comunas que tienen mayor cantidad de fallecidos por accidentes de tránsito. Sin embargo, lo más importante del dashboard fue la medición de 3 KPIS, dos que me había solicitado la organización y uno adicional que consideré adecuado incluir. Sin embargo, hacer comparaciones con el año anterior, en el cual se desarrolló la pandemia casi en su totalidad, terminó mostrando resultados frustrantes, de todas maneras creo que dadas las circunstancias, los valores apenas por arriba del año anterior de cuarentena, no deberían mirarse como totalmente negativos.
-  
+
+### Repositorio
+  En este repositorio se puede encontrar para su consulta:
+  - Readme.md: explicación del proceso de trabajo
+  - PIDA.ipynb: jupyter Notebook con la lectura de datos y el EDA
+  - homicidios.xlsx: dataset original
