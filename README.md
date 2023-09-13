@@ -27,20 +27,10 @@
   Durante el primer análisis de datos no se observó presencia de outliers en la edad ni en la cantidad de víctimas en un accidente (variables que consideré unas de las más importantes en mi estudio), como tampoco de duplicados. Existen valores faltantes, pero en proporciones mínimas(menos del 10% en el mayor de los casos) y por lo tanto consideré que no era necesario realizar ninguna transformación importante respecto a eso.
   
   A la hora de realizar gráficas comencé a notar cosas que en mis primeras hipótesis ya estaba prácticamente seguro: la mayor cantidad de víctimas de accidentes de tránsito circulan en moto y son jóvenes menores de 30 años, y en contrapartida, los mayores responsables de estos siniestros son conductores de autos y vehículos de carga. También es triste notar que las personas de la tercera edad ocupan la mayoría del porcentaje de muertes de peatones.
+
+  También se pudo observar que hay comunas que registran una cantidad muy superior de siniestros respecto a otras, lugares donde se deben tomar medidas con mayor exhaustividad, así como noté que en ciertos tipos de calles hay ciertos vehículos que marcan predominancia, tanto en víctimas como en acusados.
+     
+
+#### Dashboard
+  Con todos estos datos e información procedí a realizar un dashboard interactivo con diversos tipos de gráficos que no hicieron otra cosa más que concordar con los análisis anteriormente realizados. Realice un gráfico de líneas para mostrar las cantidades de siniestros respecto al tiempo, un gráfico de columnas que mostrara la edad y los vehículos en los que circulan las víctimas, indicando también en qué circulan los acusados de esos siniestros y un gráfico circular que muestre mejor esto último. También realicé una tabla que mostrara las comunas que tienen mayor cantidad de fallecidos por accidentes de tránsito. Sin embargo, lo más importante del dashboard fue la medición de 3 KPIS, dos que me había solicitado la organización y uno adicional que consideré adecuado incluir. Sin embargo, hacer comparaciones con el año anterior, en el cual se desarrolló la pandemia casi en su totalidad, terminó mostrando resultados frustrantes, de todas maneras creo que dadas las circunstancias, los valores apenas por arriba del año anterior de cuarentena, no deberían mirarse como totalmente negativos.
   
-
-Dashboard
-Debe ser funcional y coherente con el storytelling. El dasbhoard tiene que incluir filtros, permitiendo explorar detalladamente los datos con la selección de cada uno de ellos. Es decir, es indispensable que sea interactivo. También, se espera que el diseño que implementen facilite la interpretación de la información y su análisis, siendo importante, para ello, la claridad en la presentación de los datos, aspectos inherentes a la esteticidad, elección coherente de los gráficos según las variables a visualizar, entre otros ítems.
-
-KPIs
-Debes graficar y medir los 2 KPIs propuestos a continuación, representándolos adecuadamente en el dashboard. A su vez, tambíen tienes que proponer, medir y graficar un tercer KPI que consideres relevante para la temática. Los dos KPIs propuestos son:
-
-Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior
-Definimos a la tasa de homicidios en siniestros viales como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico. Su fórmula es: (Número de homicidios en siniestros viales / Población total) * 100,000
-
-Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior
-Definimos a la cantidad de accidentes mortales de motociclistas en siniestros viales como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado periodo temporal. Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: (Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100
-
-
-Repositorio de GitHub
-El repositorio debe contener un Readme principal donde presenten, en una primera instancia, de forma general su proyecto y detallen qué hay en cada archivo/carpeta del propio repositorio. Este Readme no puede ser el mismo de la consigna que nosotros les entregamos. A su vez, el Readme debe incluir un reporte de análisis con base en sus dashboards, así como el análisis y la funcionalidad de los KPIs sugeridos.
