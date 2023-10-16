@@ -10,7 +10,7 @@
 
 ![](https://github.com/federicomolina86/Proyecto-DataAnalytics/blob/main/src/BA_logo.jpeg)
 
-  El Observatorio de Movilidad y Seguridad Vial (OMSV), organismo dependiente del gobierno de la Ciudad Autónoma de Buenos Aires, me solicitó la elaboración de un proyecto de anális de datos, con el fin de generar información que le permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales de los siniestros viales. Para este estudio, disponibiliza un dataset sobre homicidios en siniestros viales acaecidos en la Ciudad de Buenos Aires durante el periodo 2016-2021. Se puede encontrar en https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales.
+  El Observatorio de Movilidad y Seguridad Vial (OMSV), organismo dependiente del gobierno de la Ciudad Autónoma de Buenos Aires, me solicitó la elaboración de un proyecto de análisis de datos, con el fin de generar información que le permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales de los siniestros viales. Para este estudio, disponibiliza un dataset sobre homicidios en siniestros viales acaecidos en la Ciudad de Buenos Aires durante el periodo 2016-2021. Se puede encontrar en https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales.
   Para el análisis exploratorio, realizaré una serie de scripts en un Jupyter Notebook y para el apartado gráfico utilizaré principalmente `seaborn`, una librería de visualización de datos basada en `matplotlib`.
   
 ## Dashboard
