@@ -1,4 +1,4 @@
-# Proycto de Data Analytics sobre víctimas de siniestros viales
+# Proyecto de Data Analytics sobre víctimas de siniestros viales
   Mi nombre es Federico Molina, soy Analista de Datos y en esta oportunidad les traigo mi primer proyecto de Data Analytics, uno que es muy importante para todos aquellos que somos parte de la sociedad y que desafortunadamente como en mi caso, han sufrido la terrible experiencia de lamentar la triste pérdida de un ser amado en un siniestro vial.
 
 ### Presentación general 
